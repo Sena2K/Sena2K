@@ -1,16 +1,39 @@
-### Hi there 👋
+<h1 align="center">Hello there 🖐️, I'm Murilo!</h1>
 
-<!--
-**Sena2K/Sena2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><img src="https://media.tenor.com/lcxWZZ3yseUAAAAC/avengers-iron-man.gif" width="230px"></h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Back-end Developer (C#).
+
+- ⌨️ Enthusiast in technology.
+
+- 🏠 Living in São Paulo, Brazil.
+
+- 📚 Currently, I am studying Computer Science.
+
+- ✉️ How to reach me: senamurilo2@gmail.com
+### Connect with me:
+<a href="https://www.linkedin.com/in/murilo-sena-1a2285231/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
+</a>
+
+### Languages and Tools:
+<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40px"/>
+</a>
+<a href="https://dotnet.microsoft.com/pt-br/languages/csharp">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>
+</a>
+<a href="https://www.python.org">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40px"/>
+</a>
+<a href="https://dotnet.microsoft.com/pt-br/download">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" width="40px"/>
+</a>
+
+          
+
+          
+          
+          
+
