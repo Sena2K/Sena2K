@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://media.tenor.com/lcxWZZ3yseUAAAAC/avengers-iron-man.gif" width="230px"></h1>
 
 
-- 💻 Back-end Developer (JAVA).
+- 💻 Back-end Developer.
 
 - ⌨️ Enthusiast in technology.
 
