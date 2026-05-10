@@ -9,8 +9,6 @@
 
 - 🏠 Living in São Paulo, Brazil.
 
-- 📚 Currently, I am studying Computer Science.
-
 - ✉️ How to reach me: senamurilo2@gmail.com
 ### Connect with me:
 <a href="https://www.linkedin.com/in/murilo-sena-1a2285231/">
